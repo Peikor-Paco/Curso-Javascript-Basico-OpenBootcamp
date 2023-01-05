@@ -6,4 +6,4 @@ en
 varias 
 loneas
 */
-console.log("Puerta de entrada al proyecto")
+console.log("Hola, este es mi primer ejercicio con Node en el mejor Bootcamp de programación del mundo")
